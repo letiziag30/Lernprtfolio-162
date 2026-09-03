@@ -1,0 +1,4 @@
+-sie sind sortiert oder sortierbar
+-können nach mehreren Kriterien sortiert werden
+-es ist einfach und schnell, um nach einem sortierten Kriterium zu suchen
+-es ist aufwändig Daten einzufügen, da man nach einer passenden Stelle suchen muss 

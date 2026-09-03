@@ -1,0 +1,3 @@
+-unstrukturierte Daten sind digitale Informationen, die keine feste, klare Ordnung oder Struktur haben
+-daher können Computer sie nicht so einfach verarbeiten wie strukturierte Daten
+-z.B. kann ein Computer Tonaufnahmen nicht gut analysieren, um zu verstehen was genau die Informationen bedeuten (z.B. in einer Tonaufnahme weiss der Computer nicht welche Information davon genau der Name ist) 

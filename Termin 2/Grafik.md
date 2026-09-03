@@ -1,0 +1,6 @@
+-grafische Darstellungen sind Momentaufnahmen (zeigt den Zustand zu einem bestimmten Zeitpunkt)
+-enthaltene Informationen sind nicht lesbar -> unstrukturiert
+-technisch muss die Grafik nach bestimmten Regeln gespeichert werden -> es gibt Pixelgrafiken und Vektorgrafiken
+-PixelgrafiK: ein Bild wird aus vielen kleinen Bildpunkten gespeichert, jeder Punkt hat eine bestimmte Farbe
+-Vektorgrafik: mathematische Beschreibung von Linien, Kurven werden gespeichert, die Bildpunkte werden berechnet wenn die Grafik dargestellt wird -> gut für Logos
+-Dateierweiterungen: PNG, JPG, GIF, SVG

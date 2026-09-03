@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7e2e4316e418ff62",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabfac030d1b7c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c59a3452106322c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Termin 2/einfache Datentypen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "einfache Datentypen"
+            }
+          },
+          {
+            "id": "86a7c7c77f4e55d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auftrag Datentypen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auftrag Datentypen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb9025d7cfe15c05",
+    "type": "split",
+    "children": [
+      {
+        "id": "a01ef3edb9fc112a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd996959d343651b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "d0a667f4c03d8485",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "630d4954e176eb05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 510.40000000000003
+  },
+  "right": {
+    "id": "b5b42101e9c2028c",
+    "type": "split",
+    "children": [
+      {
+        "id": "75afd82993d6c84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb1b4c61fcd5559",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "1cbd6539bbb8d1fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "d1a1e5762027d8bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54ab2d4edda467a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "0520b5c59b081c9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "cd996959d343651b",
+  "lastOpenFiles": [
+    "publickey-162",
+    "Auftrag Datentypen.md",
+    "Termin 2/einfache Datentypen.md",
+    "Termin 2/Datentypen.md",
+    "Datenschutz.md",
+    "Termin 2/vereinfachtes Memory Management.md",
+    "Termin 2/Pasted image 20260830183504.png",
+    "Termin 2/zusammengesetzte Datentypen.md",
+    "Pasted image 20260829202832.png",
+    "Termin 2/Pasted image 20260829202857.png",
+    "Zeichencodierung.md",
+    "Termin 1/Auftrag Suchmaschinen.md",
+    "Termin 1/Merkmale schwach strukturierter Daten.md",
+    "Termin 1/Merkmale stark strukturierter Daten.md",
+    "Termin 1/Strukturierungsgrad von Daten.md",
+    "Termin 1/Einordnung unstrukturierte, strukturierte und semi-strukturierte Daten.md",
+    "Termin 1/Organisation von Daten.md",
+    "Termin 1/Behandlung von unstrukturierten Daten.md",
+    "Termin 1/Modellierung.md",
+    "Termin 1/Unstrukturierte Daten.md",
+    "Termin 2/Merkmalstypen und Skalentypen.md",
+    "Termin 2/Dateiformate.md",
+    "Termin 2/Kardinalskala.md",
+    "Termin 2/Ordinalskala.md",
+    "Termin 2/Nominalskala.md",
+    "Termin 2/Pasted image 20260829151508.png",
+    "Termin 2/Video & Sound.md",
+    "Video/Sound.md",
+    "Termin 1/Strukturierte und unstrukturierte Daten.md",
+    "Termin 1/Screenshot (38).png",
+    "Termin 1/Strukturierte Daten.md",
+    "Video",
+    "Termin 1",
+    "Termin 1/Unbenannt",
+    "Unbenannt.base",
+    "Termin 1",
+    "Termin 2"
+  ]
+}

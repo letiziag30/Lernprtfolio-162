@@ -1,0 +1,4 @@
+-sortierbare Daten
+-Rangordnung, aber keine interpretierbare Abstände -> man weiss was besser / höher ist, aber nicht genau, wie gross der Unterschied ist
+-meist diskret
+-z.B. Schulnoten -> ist ein 4er 2/3 von einem 6er? die Note 5 ist besser als die Note 4 -> aber die Abstände sind nicht linear, sondern exponentiell etc. (-> nicht diskret)

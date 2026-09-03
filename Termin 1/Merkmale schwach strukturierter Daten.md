@@ -1,0 +1,3 @@
+-sie sind nicht sortiert
+-es ist aufwändig nach sortierten Daten zu suchen
+-es ist einfach Daten einzufügen und fast überall möglich 

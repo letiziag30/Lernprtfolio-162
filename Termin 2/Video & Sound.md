@@ -1,0 +1,4 @@
+-Video und Sound sind analoge Signale, die digitalisiert werden (Schallwellen können nicht direkt gespeichert werden -> digitalisiert)
+-besitzt keine feste Datenstruktur -> unstrukturiert
+-die Datei muss bar nach bestimmten Regeln gespeichert werden -> die analogen Signale werden in sehr kurzen Abständen gemessen -> **Samples** = Messwerte
+-Dateierweiterungen: WAV, MP3, MP4, AVI, MPEG, MKV
