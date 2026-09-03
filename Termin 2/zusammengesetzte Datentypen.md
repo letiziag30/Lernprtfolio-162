@@ -2,7 +2,7 @@
 -eine Folge von Zeichen mit einer vorher festgelegten Länge
 -Bezeichnungen der Zeichenketten fester Länge: Array of CHAR, CHAR(n), CHAR[ n ]
 -Wertebereich: Alle möglichen Zeichenketten -> alle Kombinationen der erlaubten Zeichen können gespeichert werden, solange die festgelegte Länge eingehalten wird
--Operationen: Stringfunktionen (Teilstring, Konkatenation (Zusammensetzung)), <, >, =
+-Operationen: Stringfunktionen (Teilstring, Konkatenation (Zusammensetzung)), <, >, =  
 
 ***Zeichenkette variabler Länge***
 -Text, dessen Länge sich verändern kann

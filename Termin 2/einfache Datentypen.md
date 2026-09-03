@@ -53,5 +53,5 @@
 -Bezeichnung: NULL, VOID, None, NIL, Nothing
 -Wertebereich: keiner
 -Operationen: =
--Bedeutung: Dieser Zeiger ist verschieden von allen Zeigern auf Objekte.
+-Bedeutung: Dieser Zeiger ist verschieden von allen Zeigern auf Objekte.  
 

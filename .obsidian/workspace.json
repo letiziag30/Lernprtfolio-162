@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "dabfac030d1b7c64",
+        "id": "2998337b4ed39f17",
         "type": "tabs",
         "children": [
           {
-            "id": "0c59a3452106322c",
+            "id": "561369c4298be2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zeichencodierung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zeichencodierung"
+            }
+          },
+          {
+            "id": "99ef3240c97da028",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +36,31 @@
             }
           },
           {
-            "id": "86a7c7c77f4e55d1",
+            "id": "cbb4eb5a0b237a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Auftrag Datentypen.md",
+                "file": "Termin 2/zusammengesetzte Datentypen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auftrag Datentypen"
+              "title": "zusammengesetzte Datentypen"
+            }
+          },
+          {
+            "id": "518a306dcfb833cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Termin 2/vereinfachtes Memory Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vereinfachtes Memory Management"
             }
           }
         ]
@@ -97,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.40000000000003
+    "width": 510.40000000000003,
+    "collapsed": true
   },
   "right": {
     "id": "b5b42101e9c2028c",
@@ -199,18 +228,20 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "cd996959d343651b",
+  "active": "561369c4298be2de",
   "lastOpenFiles": [
-    "publickey-162",
-    "Auftrag Datentypen.md",
-    "Termin 2/einfache Datentypen.md",
-    "Termin 2/Datentypen.md",
-    "Datenschutz.md",
-    "Termin 2/vereinfachtes Memory Management.md",
-    "Termin 2/Pasted image 20260830183504.png",
+    "Pasted image 20260903112701.png",
+    "README.md",
+    "Termin 2/Auftrag Datentypen.md",
     "Termin 2/zusammengesetzte Datentypen.md",
-    "Pasted image 20260829202832.png",
+    "Termin 2/einfache Datentypen.md",
+    "Termin 2/vereinfachtes Memory Management.md",
+    "Termin 2/Datentypen.md",
+    "Termin 2/Pasted image 20260830183504.png",
     "Termin 2/Pasted image 20260829202857.png",
+    "publickey-162",
+    "Datenschutz.md",
+    "Pasted image 20260829202832.png",
     "Zeichencodierung.md",
     "Termin 1/Auftrag Suchmaschinen.md",
     "Termin 1/Merkmale schwach strukturierter Daten.md",
@@ -231,7 +262,6 @@
     "Video/Sound.md",
     "Termin 1/Strukturierte und unstrukturierte Daten.md",
     "Termin 1/Screenshot (38).png",
-    "Termin 1/Strukturierte Daten.md",
     "Video",
     "Termin 1",
     "Termin 1/Unbenannt",
