@@ -8,62 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "561369c4298be2de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zeichencodierung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zeichencodierung"
-            }
-          },
-          {
-            "id": "99ef3240c97da028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Termin 2/einfache Datentypen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "einfache Datentypen"
-            }
-          },
-          {
             "id": "cbb4eb5a0b237a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termin 2/zusammengesetzte Datentypen.md",
+                "file": "Termin 1/Heap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zusammengesetzte Datentypen"
+              "title": "Heap"
             }
           },
           {
-            "id": "518a306dcfb833cd",
+            "id": "3a61cf722aa5500f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Termin 2/vereinfachtes Memory Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vereinfachtes Memory Management"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.40000000000003,
-    "collapsed": true
+    "width": 525.5
   },
   "right": {
     "id": "b5b42101e9c2028c",
@@ -228,40 +196,48 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "561369c4298be2de",
+  "active": "3a61cf722aa5500f",
   "lastOpenFiles": [
-    "Pasted image 20260903112701.png",
-    "README.md",
-    "Termin 2/Auftrag Datentypen.md",
-    "Termin 2/zusammengesetzte Datentypen.md",
-    "Termin 2/einfache Datentypen.md",
-    "Termin 2/vereinfachtes Memory Management.md",
-    "Termin 2/Datentypen.md",
-    "Termin 2/Pasted image 20260830183504.png",
-    "Termin 2/Pasted image 20260829202857.png",
-    "publickey-162",
-    "Datenschutz.md",
-    "Pasted image 20260829202832.png",
-    "Zeichencodierung.md",
     "Termin 1/Auftrag Suchmaschinen.md",
     "Termin 1/Merkmale schwach strukturierter Daten.md",
     "Termin 1/Merkmale stark strukturierter Daten.md",
     "Termin 1/Strukturierungsgrad von Daten.md",
-    "Termin 1/Einordnung unstrukturierte, strukturierte und semi-strukturierte Daten.md",
     "Termin 1/Organisation von Daten.md",
     "Termin 1/Behandlung von unstrukturierten Daten.md",
-    "Termin 1/Modellierung.md",
-    "Termin 1/Unstrukturierte Daten.md",
-    "Termin 2/Merkmalstypen und Skalentypen.md",
-    "Termin 2/Dateiformate.md",
-    "Termin 2/Kardinalskala.md",
-    "Termin 2/Ordinalskala.md",
-    "Termin 2/Nominalskala.md",
-    "Termin 2/Pasted image 20260829151508.png",
-    "Termin 2/Video & Sound.md",
-    "Video/Sound.md",
     "Termin 1/Strukturierte und unstrukturierte Daten.md",
+    "Termin 1/Einordnung unstrukturierte, strukturierte und semi-strukturierte Daten.md",
+    "Termin 1/Unstrukturierte Daten.md",
     "Termin 1/Screenshot (38).png",
+    "Termin 1/Strukturierte Daten.md",
+    "Termin 1/Datensatz, Record, Tupel.md",
+    "Termin 3",
+    "Termin 1/Datensicherheit und Datenschutz im Zusammenhang mit Datenanalyse.md",
+    "Datensatz/Record/Tupel.md",
+    "Termin 1/Auftrag Datenstrukturen.md",
+    "Termin 1/Heap.md",
+    "Termin 1/Datenstrukturen.md",
+    "Termin 1/Graph.md",
+    "Termin 1/Warteschlange.md",
+    "Termin 1/Hashtabelle.md",
+    "Termin 2/vereinfachtes Memory Management.md",
+    "Termin 1/Stapel, Stack.md",
+    "Termin 1/Verkette Liste.md",
+    "Termin 1/Array.md",
+    "Termin 1/Pasted image 20260907135517.png",
+    "Termin 1/Pasted image 20260907134525.png",
+    "Termin 1/Baum.md",
+    "Termin 1/Pasted image 20260907133711.png",
+    "Termin 1/Pasted image 20260907132934.png",
+    "Termin 1/Pasted image 20260907132154.png",
+    "Termin 1/Vorrangwarteschlange.md",
+    "Termin 2/zusammengesetzte Datentypen.md",
+    "Termin 1/Pasted image 20260907131651.png",
+    "Termin 1/Pasted image 20260907131153.png",
+    "Termin 1/Pasted image 20260907130506.png",
+    "Termin 1/Pasted image 20260907123750.png",
+    "Datensatz/Record",
+    "Datensatz",
+    "publickey-162",
     "Video",
     "Termin 1",
     "Termin 1/Unbenannt",

@@ -1,9 +1,9 @@
 ***Textdaten***
 -erlauben das Verarbeiten von unstrukturierten Daten
 -keine Einschränkungen an die Struktur der Daten abgesehen vom Zeichensatz
--Auswertemöglichkeiten eines Textes sind beschränkt 
+-Auswertemöglichkeiten eines Textes sind beschränkt   
 
-***Tabellendaten***
+***Tabellendaten***  
 -mässig  strukturiert
 -Strukturierung sieht Zeilen 
 -Daten werden in Zeilen und Spalten angeordnet

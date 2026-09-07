@@ -19,6 +19,8 @@
 
 -[[Merkmale schwach strukturierter Daten]]
 
+-[[Auftrag Suchmaschinen]]
+
 
 
 

@@ -1,6 +1,6 @@
 -wenn wir eine Datenstruktur festlegen, beschreiben wir was sie speichern kann und welche Operationen man mit ihr durchführen kann 
 **-> Spezifikation**
--die Spezifikation sagt was passieren soll, aber nicht wie der Computer es technisch umsetzt  
+-die Spezifikation sagt was passieren soll, aber nicht wie der Computer es technisch umsetzt    
 
 ***Datenstruktur oder abstrakter Datentyp***
 -je nachdem, worauf man bei Daten und ihre Operationen achtet, spricht man von einer Datenstruktur oder einem abstrakten Datentyp

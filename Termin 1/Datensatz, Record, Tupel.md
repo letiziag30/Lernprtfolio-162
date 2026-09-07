@@ -1,0 +1,8 @@
+-Datensätze (auch Tupel oder Record genannt gehören zu den einfachsten Datenstrukturen)
+-besteht aus mehreren Datenfeldern, die normalerweise eine feste Struktur und Anzahl haben zusammen
+-z.B. Person: (ID=12, Vorname=Hans, Nachname=Wenger, Telefonnummer=07911111111, Adresse=Zuercherstrasse 12)
+-Klammern können rund oder eckig sein
+-wichtig: Daten in einem Record gehörten inhaltlich zusammen und meistens gibt es mehrere Tuples des gleichen Typs
+-ein Record kann als eine Zeile einer Tabelle angeschaut werden
+-Records vom gleichen Typ werden in Tabellen zusammengefasst
+-ein Datensatz fasst mehrere zusammengehörende Werte zu einer Einheit zusammen

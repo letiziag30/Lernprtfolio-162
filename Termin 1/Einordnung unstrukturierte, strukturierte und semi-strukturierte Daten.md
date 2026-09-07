@@ -1,4 +1,4 @@
--man unterscheidet zwischen unstrukturierte Daten, strukturierte Daten und semi-strukturierte Daten
+-man unterscheidet zwischen unstrukturierte Daten, strukturierte Daten und semi-strukturierte Daten  
 
 ***semi-strukturierte Daten***
 -eine E-Mail beinhaltet semi-strukturierte Daten: Empfänger, Absender  und evt. Titel -> strukturiert; Inhalt der Email -> strukturlos, da es einfach Text ist
@@ -11,5 +11,6 @@
 -damit ein Computer besser mit unstrukturierten Daten umgehen kann, müssen die darin enthaltenen Information geordnet und strukturiert werden -> ***"Modellierung"***  
 
 -[[Modellierung]]
+
 
 
