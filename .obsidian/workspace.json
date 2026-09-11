@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "574a9c982174eed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Termin 3/Auftrag JSON Adressdaten interpretieren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auftrag JSON Adressdaten interpretieren"
-            }
-          },
-          {
-            "id": "3edb4620c47856ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Termin 3/Auftrag JSON Steckbrief.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auftrag JSON Steckbrief"
-            }
-          },
-          {
             "id": "0bf238a338d33526",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "Einfache Diagrammtypen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.16668701171875
+    "width": 510.40000000000003,
+    "collapsed": true
   },
   "right": {
     "id": "b5b42101e9c2028c",
@@ -214,12 +186,31 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "cd996959d343651b",
+  "active": "0bf238a338d33526",
   "lastOpenFiles": [
+    "Auftrag Modulnoten.md",
+    "Auftrag_Modulnoten_Noten.xlsx",
+    "Termin 4/Einfache Diagrammtypen.md",
+    "Auftrag Corona Situation.md",
+    "Termin 3/Auftrag JSON Adressdaten interpretieren.md",
+    "Termin 3/Auftrag JSON Steckbrief.md",
+    "Auftrag_DiagrammeII_Quelle (1).xlsx",
+    "Termin 4/Auftrag Parteizugehörigkeit.md",
+    "Auftrag_DiagrammeI_Quelle.xlsx",
+    "Termin 4/Diagramme erstellen.md",
+    "Termin 4/Pasted image 20260911152902.png",
+    "Termin 4/Pasted image 20260911152524.png",
+    "Termin 4/Pasted image 20260911151851.png",
+    "Termin 4/Pasted image 20260911151544.png",
+    "Termin 4/Pasted image 20260911150808.png",
+    "Termin 4/Pasted image 20260911150526.png",
+    "Termin 4/Pasted image 20260911150259.png",
+    "Termin 4/Pasted image 20260911143730.png",
+    "Termin 4/Auftrag Import.md",
+    "Fragebogen.xlsx",
+    "Termin 4/Excel TXT-Daten Import.md",
     "Termin 4/Auftrag Konsumentenpreise.md",
     "Harmonisierter Verbraucherpreisindex (HVPI).pptx",
-    "Termin 4/Einfache Diagrammtypen.md",
-    "Termin 4/Auftrag Import.md",
     "Mannschaft.txt.xlsx",
     "Termin 4/Kreisdiagramme.md",
     "Termin 4/Pasted image 20260911093618.png",
@@ -227,15 +218,6 @@
     "Termin 4/Pasted image 20260911093341.png",
     "Termin 4/Säulendiagramm.md",
     "Termin 4/Liniendiagramm.md",
-    "Termin 4/Pasted image 20260911093013.png",
-    "Termin 4/Pasted image 20260911093000.png",
-    "Termin 4/Pasted image 20260911092621.png",
-    "Termin 3/Auftrag JSON Steckbrief.md",
-    "Termin 4/Excel TXT-Date Import.md",
-    "Termin 4/Pasted image 20260910212132.png",
-    "Termin 4/Pasted image 20260910211853.png",
-    "Termin 4/Pasted image 20260910211600.png",
-    "Termin 3/Auftrag JSON Adressdaten interpretieren.md",
     "Termin 3/Datenqualität.md",
     "Termin 4",
     "Termin 3/Bereinigung von Daten.md",
@@ -250,16 +232,6 @@
     "Termin 1/Merkmalstypen und Skalentypen.md",
     "Termin 1/Zeichencodierung.md",
     "Termin 1/Hashtabelle.md",
-    "Termin 1/Warteschlange.md",
-    "Termin 1/Vorrangwarteschlange.md",
-    "Termin 2/einfache Datentypen.md",
-    "Termin 2/Datentypen.md",
-    "Termin 1/Screenshot (38).png",
-    "Termin 3",
-    "Termin 1/Pasted image 20260907135517.png",
-    "Datensatz/Record",
-    "Datensatz",
-    "publickey-162",
-    "Video"
+    "Termin 3"
   ]
 }
