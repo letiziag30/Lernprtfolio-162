@@ -1,0 +1,1 @@
+![[Harmonisierter Verbraucherpreisindex (HVPI).pptx]]
