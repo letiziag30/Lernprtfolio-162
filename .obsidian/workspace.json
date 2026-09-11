@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2998337b4ed39f17",
+        "id": "8193b6b29d5ecd25",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf238a338d33526",
+            "id": "0d6b9360d921bdc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Termin 4/Einfache Diagrammtypen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Einfache Diagrammtypen"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -83,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.40000000000003,
-    "collapsed": true
+    "width": 510.40000000000003
   },
   "right": {
     "id": "b5b42101e9c2028c",
@@ -186,12 +181,12 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "0bf238a338d33526",
+  "active": "cd996959d343651b",
   "lastOpenFiles": [
-    "Auftrag Modulnoten.md",
+    "Termin 4/Auftrag Modulnoten.md",
     "Auftrag_Modulnoten_Noten.xlsx",
     "Termin 4/Einfache Diagrammtypen.md",
-    "Auftrag Corona Situation.md",
+    "Termin 4/Auftrag Corona Situation.md",
     "Termin 3/Auftrag JSON Adressdaten interpretieren.md",
     "Termin 3/Auftrag JSON Steckbrief.md",
     "Auftrag_DiagrammeII_Quelle (1).xlsx",
