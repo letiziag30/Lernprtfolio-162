@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8193b6b29d5ecd25",
+        "id": "35d0776f5321dde0",
         "type": "tabs",
         "children": [
           {
-            "id": "0d6b9360d921bdc0",
+            "id": "76252a8cd18b34ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Termin 5/Primarschlüssel und Fremdschlüssel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Primarschlüssel und Fremdschlüssel"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.40000000000003
+    "width": 567.5
   },
   "right": {
     "id": "b5b42101e9c2028c",
@@ -181,52 +185,53 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "cd996959d343651b",
+  "active": "76252a8cd18b34ec",
   "lastOpenFiles": [
-    "Termin 4/Auftrag Modulnoten.md",
-    "Auftrag_Modulnoten_Noten.xlsx",
-    "Termin 4/Einfache Diagrammtypen.md",
-    "Termin 4/Auftrag Corona Situation.md",
-    "Termin 3/Auftrag JSON Adressdaten interpretieren.md",
-    "Termin 3/Auftrag JSON Steckbrief.md",
-    "Auftrag_DiagrammeII_Quelle (1).xlsx",
-    "Termin 4/Auftrag Parteizugehörigkeit.md",
-    "Auftrag_DiagrammeI_Quelle.xlsx",
-    "Termin 4/Diagramme erstellen.md",
-    "Termin 4/Pasted image 20260911152902.png",
-    "Termin 4/Pasted image 20260911152524.png",
-    "Termin 4/Pasted image 20260911151851.png",
-    "Termin 4/Pasted image 20260911151544.png",
-    "Termin 4/Pasted image 20260911150808.png",
-    "Termin 4/Pasted image 20260911150526.png",
-    "Termin 4/Pasted image 20260911150259.png",
-    "Termin 4/Pasted image 20260911143730.png",
-    "Termin 4/Auftrag Import.md",
-    "Fragebogen.xlsx",
+    "Termin 5/vom konzeptionellen zum logischen Modell.md",
+    "Termin 5/Konzeptionelles, logisches und physisches Datenmodell.md",
+    "Termin 5/Datenmodellierung.md",
+    "Termin 5/Assoziationen (Beziehungen) und Kardinalitäten.md",
+    "Termin 5/ERD und ERM.md",
+    "Termin 5/Normalform 2.md",
+    "Termin 5/Normalformen.md",
+    "Termin 5/Normalform 1.md",
+    "Termin 5/Datenkonsistenz und -Integrität.md",
+    "Termin 5/Pasted image 20260930211958.png",
+    "Termin 5/Normalform 3.md",
+    "Termin 5/Pasted image 20260930211123.png",
+    "Termin 5/Pasted image 20260930160340.png",
+    "Termin 5/Pasted image 20260930155548.png",
+    "Termin 5/Pasted image 20260930155405.png",
+    "Termin 5/Pasted image 20260930155129.png",
+    "Termin 5/Pasted image 20260930154553.png",
+    "Termin 5/Pasted image 20260930153817.png",
+    "Termin 5/Pasted image 20260930153557.png",
+    "Termin 5/Bedeutung von 1, c und m im physischen Datenmodell.md",
+    "Termin 5/Pasted image 20260930153236.png",
+    "Termin 5/vom logischen zum physischen Modell.md",
+    "Termin 5/Auflösung von netzwerkförmigen Beziehungen m(c) zu m(c).md",
+    "Termin 5/Umwandlungsprozess Variante 2.md",
+    "Termin 5/Umwandlungsprozess Variante 1.md",
+    "Termin 5/Primarschlüssel und Fremdschlüssel.md",
+    "konzeptionelles Modell.md",
+    "Termin 5/Redundanzen.md",
+    "Unbenannt.base",
+    "Termin 5",
+    "Unbenannt.canvas",
     "Termin 4/Excel TXT-Daten Import.md",
-    "Termin 4/Auftrag Konsumentenpreise.md",
+    "Termin 3/JSON.md",
+    "Termin 1/Datensicherheit und Datenschutz im Zusammenhang mit Datenanalyse.md",
+    "Termin 1/Stapel, Stack.md",
+    "Termin 1/Auftrag Datenstrukturen.md",
+    "Termin 1/Baum.md",
+    "Termin 1/Datensatz, Record, Tupel.md",
+    "Auftrag_Modulnoten_Noten.xlsx",
+    "Auftrag_DiagrammeII_Quelle (1).xlsx",
+    "Auftrag_DiagrammeI_Quelle.xlsx",
+    "Fragebogen.xlsx",
     "Harmonisierter Verbraucherpreisindex (HVPI).pptx",
     "Mannschaft.txt.xlsx",
-    "Termin 4/Kreisdiagramme.md",
-    "Termin 4/Pasted image 20260911093618.png",
-    "Termin 4/Balkendiagramm.md",
-    "Termin 4/Pasted image 20260911093341.png",
-    "Termin 4/Säulendiagramm.md",
-    "Termin 4/Liniendiagramm.md",
-    "Termin 3/Datenqualität.md",
     "Termin 4",
-    "Termin 3/Bereinigung von Daten.md",
-    "Termin 3/Merkmale von schlechter Datenqualität.md",
-    "Termin 3/Ursachen für schlechte Datenqualität.md",
-    "steckbrief_personen.json",
-    "Termin 3/JSON.md",
-    "Termin 1/Heap.md",
-    "export_sem_uni_utf_98172050.json",
-    "Termin 1/Kardinalskala.md",
-    "Termin 1/Nominalskala.md",
-    "Termin 1/Merkmalstypen und Skalentypen.md",
-    "Termin 1/Zeichencodierung.md",
-    "Termin 1/Hashtabelle.md",
-    "Termin 3"
+    "steckbrief_personen.json"
   ]
 }

@@ -45,6 +45,7 @@
 -kann mit modernen Programmiersprachen verwendet werden
 
 ***JSON Types***
+
 -Strings
 -Numbers
 -Booleans
