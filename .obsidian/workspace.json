@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ecfa19c042c8341b",
+        "id": "4f5f786ac6f28718",
         "type": "tabs",
         "children": [
           {
-            "id": "e70bffe04c6da8e9",
+            "id": "08517e92942ade52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termin 5/Aufträge.md",
+                "file": "Termin 5/Normalform 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aufträge"
+              "title": "Normalform 1"
             }
           }
         ]
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.8333740234375,
-    "collapsed": true
+    "width": 436.8333435058594
   },
   "right": {
     "id": "b5b42101e9c2028c",
@@ -187,14 +186,20 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "e70bffe04c6da8e9",
+  "active": "08517e92942ade52",
   "lastOpenFiles": [
+    "Termin 5/Normalformen.md",
+    "Termin 5/Auftrag Online Game Store 1.md",
+    "Termin 5/Aufträge.md",
+    "Auftrag Online Game Store 2.md",
+    "Screenshot 2026-10-29 185458.png",
+    "Termin 5/Screenshot 2026-10-29 191326.png",
+    "Termin 5/Normalform 3.md",
     "Termin 5/Auftrag Arbeitsumgebung 1.md",
     "Termin 5/Auftrag Kardinalitäten.md",
     "Termin 5/Pasted image 20261029102244.png",
     "Termin 5/Pasted image 20261029101820.png",
     "Termin 5/Pasted image 20261029100631.png",
-    "Termin 5/Aufträge.md",
     "Arbeitsumgebung1.mwb",
     "Arbeitsumgebung 1.drawio",
     "Arbeitsumgebung.drawio",
@@ -205,8 +210,6 @@
     "LB2_Letizia.mwb",
     "LB2_Letizia.mwb.1e1bcd05",
     "Termin 5/Normalform 1.md",
-    "Termin 5/Normalform 3.md",
-    "Termin 5/Normalformen.md",
     "LB2Probeprüfung.mwb.bak",
     "LB2Probeprüfung.mwb",
     "Termin 5/Konzeptionelles, logisches und physisches Datenmodell.md",
@@ -217,8 +220,6 @@
     "Zusammenfassung LB2/IMG_2619.jpg",
     "Zusammenfassung LB2/Pasted image 20261021074741.png",
     "Zusammenfassung LB2/Pasted image 20261021074701.png",
-    "Zusammenfassung LB2/IMG_2618.jpg",
-    "Zusammenfassung LB2/Pasted image 20261021074212.png",
     "Termin 5/Datenmodellierung.md",
     "Termin 5/vom logischen zum physischen Modell.md",
     "Termin 5/Bedeutung von 1, c und m im physischen Datenmodell.md",
@@ -233,7 +234,6 @@
     "konzeptionelles Modell.md",
     "Unbenannt.base",
     "Unbenannt.canvas",
-    "Termin 4/Excel TXT-Daten Import.md",
-    "Termin 3/JSON.md"
+    "Termin 4/Excel TXT-Daten Import.md"
   ]
 }
