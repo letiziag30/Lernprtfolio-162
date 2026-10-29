@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35d0776f5321dde0",
+        "id": "ecfa19c042c8341b",
         "type": "tabs",
         "children": [
           {
-            "id": "76252a8cd18b34ec",
+            "id": "e70bffe04c6da8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termin 5/Primarschlüssel und Fremdschlüssel.md",
+                "file": "Termin 5/Aufträge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primarschlüssel und Fremdschlüssel"
+              "title": "Aufträge"
             }
           }
         ]
@@ -34,21 +34,6 @@
         "id": "a01ef3edb9fc112a",
         "type": "tabs",
         "children": [
-          {
-            "id": "cd996959d343651b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
-            }
-          },
           {
             "id": "d0a667f4c03d8485",
             "type": "leaf",
@@ -78,12 +63,29 @@
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
             }
+          },
+          {
+            "id": "cd996959d343651b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 567.5
+    "width": 494.8333740234375,
+    "collapsed": true
   },
   "right": {
     "id": "b5b42101e9c2028c",
@@ -185,53 +187,53 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "76252a8cd18b34ec",
+  "active": "e70bffe04c6da8e9",
   "lastOpenFiles": [
-    "Termin 5/vom konzeptionellen zum logischen Modell.md",
-    "Termin 5/Konzeptionelles, logisches und physisches Datenmodell.md",
-    "Termin 5/Datenmodellierung.md",
-    "Termin 5/Assoziationen (Beziehungen) und Kardinalitäten.md",
-    "Termin 5/ERD und ERM.md",
-    "Termin 5/Normalform 2.md",
-    "Termin 5/Normalformen.md",
+    "Termin 5/Auftrag Arbeitsumgebung 1.md",
+    "Termin 5/Auftrag Kardinalitäten.md",
+    "Termin 5/Pasted image 20261029102244.png",
+    "Termin 5/Pasted image 20261029101820.png",
+    "Termin 5/Pasted image 20261029100631.png",
+    "Termin 5/Aufträge.md",
+    "Arbeitsumgebung1.mwb",
+    "Arbeitsumgebung 1.drawio",
+    "Arbeitsumgebung.drawio",
+    "Termin 5/Screenshot 2026-10-29 090746.png",
+    "Termin 5/Auftrag Tabellenterminologie.md",
+    "Zusammenfassung LB2/Zusammenfassung Datenmodellierung.md",
+    "LB2_Letizia.mwb.bak",
+    "LB2_Letizia.mwb",
+    "LB2_Letizia.mwb.1e1bcd05",
     "Termin 5/Normalform 1.md",
-    "Termin 5/Datenkonsistenz und -Integrität.md",
-    "Termin 5/Pasted image 20260930211958.png",
     "Termin 5/Normalform 3.md",
-    "Termin 5/Pasted image 20260930211123.png",
-    "Termin 5/Pasted image 20260930160340.png",
-    "Termin 5/Pasted image 20260930155548.png",
-    "Termin 5/Pasted image 20260930155405.png",
-    "Termin 5/Pasted image 20260930155129.png",
-    "Termin 5/Pasted image 20260930154553.png",
-    "Termin 5/Pasted image 20260930153817.png",
-    "Termin 5/Pasted image 20260930153557.png",
-    "Termin 5/Bedeutung von 1, c und m im physischen Datenmodell.md",
-    "Termin 5/Pasted image 20260930153236.png",
+    "Termin 5/Normalformen.md",
+    "LB2Probeprüfung.mwb.bak",
+    "LB2Probeprüfung.mwb",
+    "Termin 5/Konzeptionelles, logisches und physisches Datenmodell.md",
+    "Termin 5/Normalform 2.md",
+    "Termin 5/Screenshot (122).png",
+    "Zusammenfassung LB2",
+    "Termin 5/Datenkonsistenz und -Integrität.md",
+    "Zusammenfassung LB2/IMG_2619.jpg",
+    "Zusammenfassung LB2/Pasted image 20261021074741.png",
+    "Zusammenfassung LB2/Pasted image 20261021074701.png",
+    "Zusammenfassung LB2/IMG_2618.jpg",
+    "Zusammenfassung LB2/Pasted image 20261021074212.png",
+    "Termin 5/Datenmodellierung.md",
     "Termin 5/vom logischen zum physischen Modell.md",
-    "Termin 5/Auflösung von netzwerkförmigen Beziehungen m(c) zu m(c).md",
+    "Termin 5/Bedeutung von 1, c und m im physischen Datenmodell.md",
+    "Termin 5/vom konzeptionellen zum logischen Modell.md",
     "Termin 5/Umwandlungsprozess Variante 2.md",
     "Termin 5/Umwandlungsprozess Variante 1.md",
+    "Termin 5/Auflösung von netzwerkförmigen Beziehungen m(c) zu m(c).md",
     "Termin 5/Primarschlüssel und Fremdschlüssel.md",
-    "konzeptionelles Modell.md",
     "Termin 5/Redundanzen.md",
+    "Termin 5/Assoziationen (Beziehungen) und Kardinalitäten.md",
+    "Termin 5/ERD und ERM.md",
+    "konzeptionelles Modell.md",
     "Unbenannt.base",
-    "Termin 5",
     "Unbenannt.canvas",
     "Termin 4/Excel TXT-Daten Import.md",
-    "Termin 3/JSON.md",
-    "Termin 1/Datensicherheit und Datenschutz im Zusammenhang mit Datenanalyse.md",
-    "Termin 1/Stapel, Stack.md",
-    "Termin 1/Auftrag Datenstrukturen.md",
-    "Termin 1/Baum.md",
-    "Termin 1/Datensatz, Record, Tupel.md",
-    "Auftrag_Modulnoten_Noten.xlsx",
-    "Auftrag_DiagrammeII_Quelle (1).xlsx",
-    "Auftrag_DiagrammeI_Quelle.xlsx",
-    "Fragebogen.xlsx",
-    "Harmonisierter Verbraucherpreisindex (HVPI).pptx",
-    "Mannschaft.txt.xlsx",
-    "Termin 4",
-    "steckbrief_personen.json"
+    "Termin 3/JSON.md"
   ]
 }
